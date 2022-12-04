@@ -1,4 +1,4 @@
-<p align='center'> <a href="https://imgbb.com/"><img src="https://i.ibb.co/bBCWVTf/logo-eat2gether.png" alt="logo-eat2gether" border="0"></a></p>
+# Node js - Socket io server
 
 ## 💼 The project
 
